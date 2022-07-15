@@ -1,0 +1,6 @@
+hl = Language | options: (en)
+user = Academic profile | options: (INSERT_USER_KEY)
+start = Article to start at | options: (AN_INTEGER)
+pagesize = The number of articles to show on the page | options: (AN_INTEGER)
+view_op = The type of search you go into? | options: (search_authors)
+mauthors = The name of the author you want to search? | options: (A_NAME)
